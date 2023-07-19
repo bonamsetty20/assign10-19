@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date19\ConAppAssign10\ConAppAssign10\bin\Debug\ConAppAssign10.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date19\ConAppAssign10\ConAppAssign10\bin\Debug\ConAppAssign10.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date19\ConAppAssign10\ConAppAssign10\bin\Debug\ConAppAssign10.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date19\ConAppAssign10\ConAppAssign10\obj\Debug\ConAppAssign10.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date19\ConAppAssign10\ConAppAssign10\obj\Debug\ConAppAssign10.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date19\ConAppAssign10\ConAppAssign10\obj\Debug\ConAppAssign10.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date19\ConAppAssign10\ConAppAssign10\obj\Debug\ConAppAssign10.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date19\ConAppAssign10\ConAppAssign10\obj\Debug\ConAppAssign10.pdb
